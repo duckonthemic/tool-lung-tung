@@ -1,7 +1,6 @@
 @echo off
 :: AutoSort 2.0 – File Organizer & Logger
 :: Usage :  autosort.bat  [src]  [dst]  [/copy]  [/quiet]
-:: Author : DK & ChatGPT – 09-Jun-2025
 
 :: ---------- 1. Chuẩn bị môi trường ----------
 setlocal enableextensions enabledelayedexpansion
